@@ -1,3 +1,3 @@
 # barbearia do mamaco
 
-https://linconeduardo.github.io./contato.html
+https://linconeduardo.github.io/
